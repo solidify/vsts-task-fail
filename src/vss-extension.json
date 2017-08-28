@@ -36,10 +36,10 @@
    ],
   "content": {
     "license": {
-      "path": "docs/LICENSE.md"
+      "path": "Docs/LICENSE.md"
     },
     "details": {
-      "path": "docs/overview.md"
+      "path": "Docs/overview.md"
     }
   },
  "links": {
