@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "tfx-cli": "^0.3.45"
+  },
+  "name": "Fail",
+  "private": true,
+  "version": "1.0.0"
+}

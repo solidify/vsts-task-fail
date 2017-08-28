@@ -1,0 +1,92 @@
+{
+   "manifestVersion": 1,
+   "id": "Fail",
+   "version": "1.0.22",
+   "name": "Fail",
+   "scopes": [],
+   "description": "Fail a build or release based on various conditions.",
+   "publisher": "Solidify Labs",
+   "icons": {
+      "default": "img/extension-icon.png"
+   },
+   "targets": [
+      {
+         "id": "Microsoft.VisualStudio.Services"
+      }
+   ],
+   "demands": [
+      "api-version/3.0"
+   ],
+   "tags": [
+    "Fail",
+	  "Stop",
+	  "Date",
+	  "Expression",
+	  "Build",
+	  "Release",
+	  "Solidify"
+   ],
+   "screenshots": [
+      {	 
+		"path": "img/screen2.png"
+	  },
+	  {
+		"path": "img/screen3.png"
+      }
+   ],
+  "content": {
+    "license": {
+      "path": "docs/LICENSE.md"
+    },
+    "details": {
+      "path": "docs/overview.md"
+    }
+  },
+ "links": {
+    "home": {
+      "uri": "https://github.com/solidify/vsts-tasks-fail"
+    },
+    "getstarted": {
+      "uri": "https://github.com/solidify/vsts-tasks-fail"
+    },
+    "learn": {
+      "uri": "https://github.com/solidify/vsts-tasks-fail"
+    },
+    "support": {
+      "uri": "https://github.com/solidify/vsts-tasks-fail/issues"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "uri": "https://github.com/solidify/vsts-tasks-fail"
+  },
+   "branding": {
+      "color": "rgb(0, 0, 0)",
+      "theme": "dark"
+   },
+   "files": [
+        {
+         "path": "Fail",
+         "addressable": true
+		},
+		{
+         "path": "img/screen4.png",
+         "addressable": true
+		}
+   ],
+   "categories": [
+      "Build and release"
+   ],
+   "contributions": [
+      {
+         "id": "Fail",
+         "targets": [
+            "ms.vss-distributed-task.tasks"
+         ],
+         "type": "ms.vss-distributed-task.task",
+         "properties": {
+            "name": "Fail"
+         }
+      }
+   ]
+}
