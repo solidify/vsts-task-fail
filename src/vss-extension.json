@@ -1,7 +1,7 @@
 {
    "manifestVersion": 1,
    "id": "Fail",
-   "version": "1.0.22",
+   "version": "1.0.0",
    "name": "Fail",
    "scopes": [],
    "description": "Fail a build or release based on various conditions.",

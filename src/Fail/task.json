@@ -6,11 +6,11 @@
    "helpMarkDown": "Intentionally fail a build or release based on various conditions",
    "category": "Utility",
    "visibility": ["Build","Release"],
-   "author": "Jesper Fernström",
+   "author": "Solidify Labs",
    "version": {
       "Major": 1,
       "Minor": 0,
-      "Patch": 19
+      "Patch": 0
    },
    "demands": [],
    "instanceNameFormat": "Conditional failure",
