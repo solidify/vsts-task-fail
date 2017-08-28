@@ -13,7 +13,7 @@ Supported failure conditions:
 
 Add a new task and select **Fail** from the **Utility** catagory and configure as needed.
 
-![Fail task configuration](../img/screen4.png)
+![Fail task configuration](../img/Screen4.png)
 
 Parameters:
  - **Fail condition**: Select condition for failure. "Always", "By date" or "By expression".

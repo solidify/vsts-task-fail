@@ -28,10 +28,10 @@
    ],
    "screenshots": [
       {	 
-		"path": "img/screen2.png"
+		"path": "img/Screen2.png"
 	  },
 	  {
-		"path": "img/screen3.png"
+		"path": "img/Screen3.png"
       }
    ],
   "content": {
@@ -70,7 +70,7 @@
          "addressable": true
 		},
 		{
-         "path": "img/screen4.png",
+         "path": "img/Screen4.png",
          "addressable": true
 		}
    ],
