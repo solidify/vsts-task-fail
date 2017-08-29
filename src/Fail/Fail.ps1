@@ -18,6 +18,7 @@ function FailByDate ($date, $condition)
 }
 
 function Fail($reason){
+    Write-Output "Reason for failing build: $reason"
     Write-Host "##vso[task.complete result=Failed;]Failure triggered. $reason" -ForegroundColor Red
 }
 
@@ -61,7 +62,7 @@ try {
             }
         }
         Default {
-            throw "Unidentified fail type."
+            throw "Unidentified fail type: $failtype"
         }
     }
 } 

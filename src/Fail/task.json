@@ -1,8 +1,8 @@
 {
    "id": "06c78041-a284-4965-a58a-6bab5a4ed75b",
-   "name": "Fail",
-   "friendlyName": "Fail",
-   "description": "Fail based on various conditions.",
+   "name": "intentional-failure",
+   "friendlyName": "Intentional failure",
+   "description": "Fail a build or release based on various conditions.",
    "helpMarkDown": "Intentionally fail a build or release based on various conditions",
    "category": "Utility",
    "visibility": ["Build","Release"],

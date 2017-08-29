@@ -1,8 +1,8 @@
 {
    "manifestVersion": 1,
-   "id": "Fail",
+   "id": "intentional-failure",
    "version": "1.0.0",
-   "name": "Fail",
+   "name": "Intentional failure",
    "scopes": [],
    "description": "Fail a build or release based on various conditions.",
    "publisher": "Solidify Labs",
@@ -23,8 +23,7 @@
 	  "Date",
 	  "Expression",
 	  "Build",
-	  "Release",
-	  "Solidify"
+	  "Release"
    ],
    "screenshots": [
       {	 
