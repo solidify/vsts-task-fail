@@ -25,11 +25,6 @@
 	  "Build",
 	  "Release"
    ],
-   "screenshots": [
-      {	 
-		"path": "img/add-task.png"
-	  }
-   ],
   "content": {
     "license": {
       "path": "Docs/LICENSE.md"
