@@ -27,11 +27,8 @@
    ],
    "screenshots": [
       {	 
-		"path": "img/Screen2.png"
-	  },
-	  {
-		"path": "img/Screen3.png"
-      }
+		"path": "img/add-task.png"
+	  }
    ],
   "content": {
     "license": {
@@ -69,7 +66,7 @@
          "addressable": true
 		},
 		{
-         "path": "img/Screen4.png",
+         "path": "img/configure-task.png",
          "addressable": true
 		}
    ],
