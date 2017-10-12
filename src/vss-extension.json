@@ -35,21 +35,21 @@
   },
  "links": {
     "home": {
-      "uri": "https://github.com/solidify/vsts-tasks-fail"
+      "uri": "https://github.com/solidify/vsts-task-fail"
     },
     "getstarted": {
-      "uri": "https://github.com/solidify/vsts-tasks-fail"
+      "uri": "https://github.com/solidify/vsts-task-fail"
     },
     "learn": {
-      "uri": "https://github.com/solidify/vsts-tasks-fail"
+      "uri": "https://github.com/solidify/vsts-task-fail"
     },
     "support": {
-      "uri": "https://github.com/solidify/vsts-tasks-fail/issues"
+      "uri": "https://github.com/solidify/vsts-task-fail/issues"
     }
   },
   "repository": {
     "type": "git",
-    "uri": "https://github.com/solidify/vsts-tasks-fail"
+    "uri": "https://github.com/solidify/vsts-task-fail"
   },
    "branding": {
       "color": "rgb(0, 0, 0)",
