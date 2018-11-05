@@ -10,12 +10,6 @@ variables:
 
 name: $(major).$(minor)$(rev:.r)
 
-resources:
-- repo: self
-queue:
-  name: Hosted
-  demands: npm
-
 steps:
 - task: ms-devlabs.vsts-developer-tools-build-tasks.package-extension-build-task.PackageVSTSExtension@1
   displayName: 'Package Extension: src'
