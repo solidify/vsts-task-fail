@@ -14,9 +14,6 @@
          "id": "Microsoft.VisualStudio.Services"
       }
    ],
-   "demands": [
-      "api-version/3.0"
-   ],
    "tags": [
     "Fail",
 	  "Stop",
