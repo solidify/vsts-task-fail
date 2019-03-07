@@ -26,5 +26,5 @@ Parameters:
 
 - Default mode for the task is to fail. If the specified date or expression cannot be resolved the task will always fail.
 - Date must be in yyyy-MM-dd format.
-- Expression must be a valid expression for the PowerShell Invoke-Command cmdlet.
+- Expression must be a valid expression for the PowerShell Invoke-Expression cmdlet.
 - An error or warning will be logged depending on if failure condition is triggered or not.
